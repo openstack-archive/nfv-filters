@@ -1,0 +1,4 @@
+---
+features:
+  - |
+    Added new Nova Scheduler filter: ``AggregateInstanceTypeFilter``.
