@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+=======================================
 Welcome to nfv-filters's documentation!
-========================================================
+=======================================
 
 Contents:
 
@@ -23,3 +24,10 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+Nova scheduler filters
+======================
+
+.. toctree::
+   :maxdepth: 2
+
+   scheduler_filters/aggregate-instance-type-filter

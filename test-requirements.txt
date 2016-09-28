@@ -15,3 +15,6 @@ testtools>=1.4.0 # MIT
 
 # releasenotes
 reno>=1.8.0 # Apache2
+
+# OpenStack projects
+-e git+https://github.com/openstack/nova.git@master#egg=nova
