@@ -1,6 +1,0 @@
-[run]
-branch = True
-source = nfv_filters
-
-[report]
-ignore_errors = True
